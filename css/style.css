@@ -3,10 +3,10 @@ body {
     background-color: #e9ecef;
   }
 
-  .dining-picture{position: absolute;
-width: 1110px;
+  .dining-picture{
+width: 1110px;/* 
 justify-content: center;
-align-items: center;
+align-items: center; */
   }
 
   .no-pad{
@@ -31,13 +31,17 @@ align-items: center;
     padding-right: 30px;
     padding-left: 30px;
 }
-.text-box{
+/* .text-box{
     position: relative;
-    padding: 150px 0px 0px 0px;
-    left: 20%;
     color: white;
-    width: 200px;
+    padding: 250px;
     
+} */
+h3{
+    color: white;
+    position: absolute;
+    top:145%;
+    padding:15px;
 }
 .video{
     justify-content: center;
@@ -47,4 +51,17 @@ align-items: center;
     justify-content: center;
     align-items: center;
     text-align: center;
+}
+.para-text{
+    color: black;
+
+}
+.highlighter{
+    font-weight: bold;
+    font-size: 24px;
+}
+.highlighter2{
+    font-weight: bold;
+    font-size: 24px;
+    color: #666666;
 }
