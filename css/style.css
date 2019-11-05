@@ -65,3 +65,26 @@ h3{
     font-size: 24px;
     color: #666666;
 }
+.link{
+    font-size: 20px;
+    color: blue;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.ref-text{
+
+    font-size: 30px;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.center{
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
