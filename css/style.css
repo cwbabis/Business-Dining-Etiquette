@@ -1,0 +1,50 @@
+body {
+    background-image: url("Dinner_image.jpg");
+    background-color: #e9ecef;
+  }
+
+  .dining-picture{position: absolute;
+width: 1110px;
+justify-content: center;
+align-items: center;
+  }
+
+  .no-pad{
+      padding: 0;
+  }
+.card{
+    justify-content: center;
+    margin: auto;
+}
+.btn{
+    justify-content: center;
+    margin: auto;
+}
+.card-img-top{
+    padding: 15px 0px 15px 0px;
+}
+.navbar-brand{
+    font-size: 32px;
+    padding: 15px;
+}
+.nav-item{
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.text-box{
+    position: relative;
+    padding: 150px 0px 0px 0px;
+    left: 20%;
+    color: white;
+    width: 200px;
+    
+}
+.video{
+    justify-content: center;
+    align-items: center;
+}
+.p-text{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
